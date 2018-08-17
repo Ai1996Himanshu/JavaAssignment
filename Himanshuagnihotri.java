@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
-class Himanshuagnihotri
+class Himanshu
 {
   public static void main(String args[])
  {
